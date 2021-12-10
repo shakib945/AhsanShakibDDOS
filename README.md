@@ -20,6 +20,6 @@ https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 Type command ```python2 ddos.py``` To run the script
 
 # Sources
- * Github https://github.com/shakib945/AhsanShakibDDOS
+ * Github https://github.com/shakib945/DDOS
  * Gitlab Project https://gitlab.com/shakib945/resources
 
